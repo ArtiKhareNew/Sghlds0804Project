@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/ArtiKhareNew
   gitUsername: ArtiKhareNew
   gitBranch: main
+- name: EmployeePayroll
+  gitServerName: bearerTokenArti_githubEnt_shared
+  gitUrl: https://github.ibm.com/Arti-Khare
+  gitUsername: Arti-Khare
+  gitBranch: main
